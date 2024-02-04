@@ -1,0 +1,112 @@
+/*у меня неполучилось сделать фон макета*/
+
+/*Cтили для страницы*/
+body{
+    background-color: blue;
+}
+.header{
+    display: flex;
+    justify-content: space-around ;
+    padding-top: 20px;
+
+}
+.header__img{
+    width: 54.78px;
+    height: 35px;
+    top: 27.27px;
+    left: 164px;
+    
+}
+.header__title{
+    color: #FFFFFF;
+    width: 179.23px;
+        height: 33.05px;
+    top: 23px;
+    left: 230.2px;
+    
+    padding-right: 1050px;
+}
+
+.container__title{
+    width: 100px;
+    height: 21px;
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF; 
+padding-top: 100px;
+}
+.container__subject{
+    width: 616px;
+    height: 222px;
+    top: 43px;
+    font-family: Poppins;
+font-size: 60px;
+font-weight: 700;
+line-height: 74px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF;
+}
+.container__caption{
+    width: 581px;
+height: 55px;
+top: 289px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF;
+padding-top: 100px;
+}
+.container__link{
+    width: 114px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+    font-family: FontAwesome;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: yellow;
+}
+.container{
+    padding-left: 150px;
+}
+
+.meta__text{
+    width: 607px;
+    height: 92px;
+    top: 960px;
+    left: 166px;
+    padding-left: 150px;
+    padding-bottom: 50px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.col{
+    display: flex;
+    justify-content: space-around   ;
+    padding-left: 150px;
+   
+}
